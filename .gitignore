@@ -1,0 +1,17 @@
+/node_modules
+npm-debug.log
+.DS_Store
+*.log
+
+# Generated files
+bundle.js
+bundle.css
+/react-src/assets
+/static-build
+/react-build
+
+# IntelliJ
+*.iml
+/.idea
+
+
